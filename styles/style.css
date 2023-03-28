@@ -1,0 +1,16 @@
+body{
+background-color: bisque;
+}
+img {
+    width: 500px;
+    margin-left: 50px;
+}
+h1{
+    color: rgba(11, 223, 223, 0.534);
+}
+h2{
+    color: rgb(206, 31, 31);
+}
+a:hover{
+    color: blue;
+}
